@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dhvani Shah</title>
+</head>
+<body>
+    <h1>
+        Name : Dhvani H Shah
+    </h1>
+    <h2>
+        Enrollment number : 24010101257
+    </h2>
+    <h3>
+        Course : Web Development
+    </h3>
+    <h4>
+        Semester : 2
+    </h4>
+    <h5>
+        Course : B.Tech In CSE
+    </h5>
+    <h6>
+        Subject Code : XYZ
+    </h6>
+    <p>
+        Hello World, This Is my first demo file for html<br>
+        I am Enjoying it, I will Practice for it.<br>
+        I love Watching C dramas.
+    </p>
+    <hr><hr>
+    <h1>Hobbies</h1>
+    <h2>1. Listening Music<br>2. Travelling</h2><hr><hr>
+
+    
+</body>
+</html>
